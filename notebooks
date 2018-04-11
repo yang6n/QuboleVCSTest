@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "%sh\necho \"QuboleVCSTest\"",
+      "text": "%sh\necho \"QuboleVCSTest 333\"",
       "user": "jiyang@homeaway.com",
-      "dateUpdated": "Apr 11, 2018 4:36:45 PM",
+      "dateUpdated": "Apr 11, 2018 4:38:03 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -25,7 +25,28 @@
       "version": "v0",
       "jobName": "paragraph_1523464587396_894477009",
       "id": "20180411-163627_860560814_q_RG93T2EWPP1523464586",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "QuboleVCSTest 333\n"
+      },
       "dateCreated": "Apr 11, 2018 4:36:27 PM",
+      "dateStarted": "Apr 11, 2018 4:38:03 PM",
+      "dateFinished": "Apr 11, 2018 4:38:04 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1523464683729_-1298052087",
+      "id": "20180411-163803_1838712999_q_RG93T2EWPP1523464586",
+      "dateCreated": "Apr 11, 2018 4:38:03 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
